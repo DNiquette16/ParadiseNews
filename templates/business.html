@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+<head>
+  
+  <!-- js -->
+  <script>
+  function hideButton() {
+    var x = document.getElementById("temp.id");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+  }
+  </script>
+
+  <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
+
+        <!-- Bootstrap CSS -->
+    <link rel="stylesheet" type="text/css" href="{% static 'app1/news.css' %}">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+
+
+
+  <title>Business</title>
+</head>
+<body id="business-page">
+  <div class="navbar">
+      <a href="home.html">Home</a>
+      <a href="sports.html">Sports</a>
+      <a href="politics.html">Politics</a>
+      <a href="business.html">Business</a>
+      {% if logged_in %}
+      <a href="profile.html">My Profile</a>
+      <a href="accounts/logout">Log Out</a>
+      {% else %}
+      <a href="accounts/signin">Log In</a>
+      {% endif %}
+  </div>
+
+    <header class="heading">
+        <h1 id="title1">BUSINESS</h1>
+        <aside>News and analysis on Wall Street, technology, media, international business, banking and the stock market</aside>
+    </header>
+
+ {% for temp in articles %}
+  <main class="container">
+    <article style="height: 250px;">
+        <img class="card-img-top" src={{ temp.image }} alt="Card image cap" style="width: 400px; height: 200px; float: left; margin-bottom: 90px; margin-right: 30px; border-radius: 4px">
+          <div class="card-body">
+            <h5 class="card-title">{{ temp.title }}</h5>
+            <p class="card-text">{{ temp.description }}</p>
+            <p class="card-text">{{ temp.publishedAt }}</p>
+            <a href={{ temp.link }} class="btn btn-primary" target="_blank">Continue Reading</a>
+            <!--<button type="button" class="btn btn-outline-success" onclick="hideButton()" id="like">Like</button>-->
+            <!--<button href="{% url 'post_like' pk=temp.id %}" type="button" class="btn btn-outline-success" id="{{ temp.id }}" onclick = "post_like(url 'post_like', temp.id)">Like</button>-->
+            <a href="{% url 'post_like' pk=temp.id %}" class="btn btn-success"> Like | {{ temp.likes }}</a>
+            <a href="{% url 'post_dislike' pk=temp.id %}" class="btn btn-danger"> Dislike | {{ temp.dislikes }}</a>
+            <!--<p> Current Likes: {{ temp.likes }} Current Dislikes: {{ temp.dislikes }} <br>Post ID: {{ temp.id }} </p>-->
+          </div>
+    </article>
+  </main>
+  {% endfor %}
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    </body>
+</html>

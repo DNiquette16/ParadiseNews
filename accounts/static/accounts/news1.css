@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee+Shade|Lustria|Open+Sans|PT+Serif+Caption');
+
+html {
+  -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://assets.hongkiat.com/uploads/oversized-background-image-design/bg.jpg', sizingMethod='scale')";
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.https://assets.hongkiat.com/uploads/oversized-background-image-design/bg.jpg', sizingMethod='scale');
+}
+body {
+  color: black;
+}
+#signin-page{
+  background: url("images/gg.jpg") center center fixed
+  background-repeat: no-repeat;
+}
+.navbar {
+    overflow: hidden;
+    background-color: black;
+    position: fixed; /* Set the navbar to fixed position */
+    z-index: 999;
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+    font-family: 'PT Serif Caption', serif;
+    border-bottom-right-radius:20px;
+    border-bottom-left-radius:20px;
+}
+
+.heading{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-bottom: 20px;
+  background-color: rgba(226, 226, 226, 0.9);
+  align-content: center;
+  text-align: center;
+  border-top: 5px solid #111;
+  border-bottom: 5px solid #111;
+}
+#title1{
+  font-family: 'Bungee Shade', cursive;
+  font-size: 60px;
+}
+.container{
+  padding: 20px;
+  background-color: rgba(226, 226, 226, 0.9);
+  align-content: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#profile{
+  text-decoration: bold;
+  color: #91bbf2;
+}

@@ -1,0 +1,20 @@
+
+<!DOCTYPE html>
+{% load static %}
+<html>
+	<head>
+
+<style>
+body {background-image: url("https://i.redd.it/y1ostvqnr4711.jpg")}
+</style>
+</head>
+<body>
+    <h1><center>Make Account</center></h1>
+        <form class = "site-form" action = "/accounts/make-account/" method = "post">
+        {% csrf_token %}
+        {{form}}
+        <input type="submit" value = "Signup"></a></p>
+        <p>If you would like to go back to the home page click <a href = "{% url 'home' %}" style="color: #4169e1">here</a>
+	</form>
+ </body>
+    </html>

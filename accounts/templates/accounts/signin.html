@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+{% load static %}
+<html>
+	<head>
+
+<style>
+body {background-image: url("https://i.redd.it/y1ostvqnr4711.jpg")}
+</style>
+</head>
+<body>
+    <h1 class="text-center" class="heading"><center>Welcome to the Log in, Friends!!! </center></h1>
+        <form class = "site-form" action = "{%url 'accounts:signin'%}" method = "post" >
+        		{% csrf_token %}
+        		{{form}}
+        		{% if request.GET.next %}
+        		<input type= "hidden" name="next" value= "{{ request.GET.next}}">
+        			{% endif %}
+        		<input type="submit"  value = "Login">
+                <p>If you do not have an account, click <a href="{% url 'accounts:make-account' %}" style="color: #4169e1">here</a> to get started making one.</p>
+                <p>If you would like to go to the home page, click <a href="{% url 'home' %}" style="color: #4169e1">here</a>
+    	</form>
+    </body>
+</html>

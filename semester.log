@@ -1,0 +1,373 @@
+commit 83c6838a900b96cc6c6d870c2b67b726b7ddba8d
+Author: austinrowen1 <austin.rowen@colorado.edu>
+Date:   Wed Dec 12 19:06:40 2018 -0700
+
+    I JUST WANT TO BE DONE
+
+commit a26ef24fe698bfa50e09b8e708bbb0a9136df0fa
+Author: Bing Mitchell <bimi5416@colorado.edu>
+Date:   Wed Dec 12 18:11:07 2018 -0700
+
+    power point
+
+commit 32ed58230f7974d8ce6523877c43d5006ecab73f
+Author: Adam Rosa <adam.rosa@colorado.edu>
+Date:   Wed Dec 12 15:45:40 2018 -0700
+
+    final push ever maybe
+
+commit 682b52b3c3a08bd647b3041fc030810360dc86dd
+Author: Adam Rosa <adam.rosa@colorado.edu>
+Date:   Wed Dec 12 14:21:12 2018 -0700
+
+    buttons change
+
+commit b15fa2e0cbe59afdcdc34ea69b770809d5048a41
+Author: austinrowen1 <austin.rowen@colorado.edu>
+Date:   Wed Dec 12 13:10:41 2018 -0700
+
+    final entry v3 fml
+
+commit 09cc1ec1607fca64262218b5e34867fc3f01fff1
+Author: austinrowen1 <austin.rowen@colorado.edu>
+Date:   Wed Dec 12 13:07:07 2018 -0700
+
+    final entry v2
+
+commit 1df94c41a5630d193eb1c8366280b0817f1eea3e
+Author: austinrowen1 <austin.rowen@colorado.edu>
+Date:   Wed Dec 12 13:03:16 2018 -0700
+
+    final entry
+
+commit 4d35e565e826e503c3cd8452146c14469b7168a3
+Author: Bing Mitchell <bimi5416@colorado.edu>
+Date:   Tue Dec 11 23:56:30 2018 -0700
+
+    README
+
+commit a7dd83546bad64bfb568f99d6af5d947ce2ebeb7
+Author: Bing Mitchell <bimi5416@colorado.edu>
+Date:   Tue Dec 11 19:37:54 2018 -0700
+
+    sign in
+
+commit 848dd40f91f6b243a3855986d853b2586b1000f9
+Author: Adam Rosa <adam.rosa@colorado.edu>
+Date:   Tue Dec 11 19:24:51 2018 -0700
+
+    try again 3
+
+commit b75fcd02e28c122db8cf5a8393f146791bff5d84
+Author: Adam Rosa <adam.rosa@colorado.edu>
+Date:   Tue Dec 11 19:23:01 2018 -0700
+
+    try again 2
+
+commit a56d179c661ff5b59b26210264529b24e2e15c24
+Author: Adam Rosa <adam.rosa@colorado.edu>
+Date:   Tue Dec 11 19:19:11 2018 -0700
+
+    try again
+
+commit 7b1ee0825b021f98e4d35252c840d2c2db7c4ae5
+Author: Adam Rosa <adam.rosa@colorado.edu>
+Date:   Tue Dec 11 19:13:30 2018 -0700
+
+    revamp
+
+commit f974d37bf8cbb285e45d10d225333e206ab6aa69
+Author: austinrowen1 <austin.rowen@colorado.edu>
+Date:   Tue Dec 11 18:46:31 2018 -0700
+
+    login button and logout buttons exist
+
+commit a2dde30abf6aa62bd4f999aaa54fc6e7d7e9e25b
+Author: austinrowen1 <austin.rowen@colorado.edu>
+Date:   Tue Dec 11 17:31:16 2018 -0700
+
+    logout buttons in
+
+commit fc1b6159524fc87d0abd78be858ef36c7ecc8558
+Author: austinrowen1 <austin.rowen@colorado.edu>
+Date:   Wed Dec 5 20:03:27 2018 -0700
+
+    profile login requirement and redirect properly working, log in and log out tested
+
+commit edae1bcef6e36c2f691888c4fb3b844f259de127
+Author: austinrowen1 <austin.rowen@colorado.edu>
+Date:   Wed Dec 5 19:35:37 2018 -0700
+
+    make account, login, and logout functionality added
+
+commit 2258f67f94af110579f268141c454e5d3233fc57
+Author: DNiquette16 <Dniquette16@gmail.com>
+Date:   Wed Dec 5 18:38:15 2018 -0700
+
+    Please use the correct picture
+
+commit 2d0b6910ffd4108cff94348329a58cde4a80f051
+Author: Adam Rosa <adam.rosa@colorado.edu>
+Date:   Wed Dec 5 18:25:35 2018 -0700
+
+    lots of delete
+
+commit 6f6d1a8f6b65ff2be37af8ccc4652ef25ad8780c
+Author: Adam Rosa <adam.rosa@colorado.edu>
+Date:   Wed Dec 5 17:28:32 2018 -0700
+
+    the big one
+
+commit 7214d12c1327ccd446907153d9ac4384be5786f0
+Author: Jared Gorthy <jago2136@colorado.edu>
+Date:   Tue Dec 4 18:41:18 2018 -0700
+
+    order likesand small edit to login page
+
+commit cd7a90a9349b381e7253cb572aaf65ba7591d97e
+Author: Jared Gorthy <jago2136@colorado.edu>
+Date:   Tue Dec 4 18:16:51 2018 -0700
+
+    like buttons and login
+
+commit a017a4892b856191a1dfa6728b46727efa305b9c
+Author: Jared Gorthy <jago2136@colorado.edu>
+Date:   Tue Dec 4 18:11:18 2018 -0700
+
+    like buttons and login
+
+commit 8700cbd08f94c78bdd9ae60e87f45ab3fc19e7de
+Author: austinrowen1 <austin.rowen@colorado.edu>
+Date:   Sat Dec 1 11:02:42 2018 -0700
+
+    sign up, log in, and possibly log out have all been implemented
+
+commit b1563fc18721ce170e0adad584f3e1fe6f899ef1
+Author: austinrowen1 <austin.rowen@colorado.edu>
+Date:   Sat Dec 1 11:01:48 2018 -0700
+
+    sign up, log in, and possibly log out have all been implemented
+
+commit 93d998dd9a4ead481818ce4ea98471a0c07578bd
+Author: Jared Gorthy <jago2136@colorado.edu>
+Date:   Tue Nov 27 17:34:28 2018 -0700
+
+    make it better
+
+commit d7493224431f4f38988b9d481929a85ca56588ce
+Author: DNiquette16 <Dniquette16@gmail.com>
+Date:   Tue Nov 27 17:09:16 2018 -0700
+
+    Fixing
+
+commit 1b5bc3b1bdc7a0b9f956328b6d8ed766a7983652
+Author: Adam Rosa <adam.rosa@colorado.edu>
+Date:   Sat Nov 17 17:05:15 2018 -0700
+
+    live news
+
+commit c66048b07820102f6d2901dfbe344431afb2ca69
+Author: DNiquette16 <Dniquette16@gmail.com>
+Date:   Sat Nov 17 11:25:34 2018 -0800
+
+    Revamping with capability to add to database from API
+
+commit f15104cc6f2421a73f1746f25272dcad2f562abf
+Merge: 1a7b51b 4c5cd1b
+Author: DNiquette16 <Dniquette16@gmail.com>
+Date:   Sat Nov 17 11:19:14 2018 -0800
+
+    Revamping with capability to add to database from API
+
+commit 1a7b51b1659492fd9aac629283b7224df0c56dfa
+Author: DNiquette16 <Dniquette16@gmail.com>
+Date:   Sat Nov 17 11:16:49 2018 -0800
+
+    Revamping with capability to add to database from API
+
+commit 4c5cd1b4d183d0e197ca94de393473033b12e498
+Author: Jared Gorthy <jago2136@colorado.edu>
+Date:   Thu Nov 15 10:10:57 2018 -0700
+
+    make it better
+
+commit 3c146305f3d3b04b5f985c00db44102de1573383
+Author: Jared Gorthy <jago2136@colorado.edu>
+Date:   Thu Nov 15 10:08:52 2018 -0700
+
+    make it better
+
+commit fde6353eba939f8c0f7ccc616ad912d1fd252e01
+Author: Jared Gorthy <jago2136@colorado.edu>
+Date:   Thu Nov 15 10:01:39 2018 -0700
+
+    make it better
+
+commit 04cba9eced016ef1c8218d145373427796c21019
+Author: Adam Rosa <adam.rosa@colorado.edu>
+Date:   Thu Nov 15 09:15:57 2018 -0700
+
+    .gitignore
+
+commit d77803349ac74a548ede3cf4380e80271c9f1d90
+Author: Adam Rosa <adam.rosa@colorado.edu>
+Date:   Tue Nov 6 17:53:39 2018 -0700
+
+    another try to connect db
+
+commit c0809f4325725c04c5f8969d9cf327fe3299e734
+Author: DNiquette16 <Dniquette16@gmail.com>
+Date:   Tue Nov 6 10:46:02 2018 -0700
+
+    Testing
+
+commit f52e82e5db5829a5e69a3399c46c49ccb27dc8b4
+Author: DNiquette16 <Dniquette16@gmail.com>
+Date:   Mon Nov 5 15:09:52 2018 -0700
+
+    Minor changes
+
+commit 848ec85eca5b34e203be888a7de0339dccc67f3a
+Author: DNiquette16 <Dniquette16@gmail.com>
+Date:   Mon Nov 5 14:38:51 2018 -0700
+
+    Minor changes
+
+commit 341b728d41148c67e904f52bc9a213670fa9de6e
+Author: DNiquette16 <Dniquette16@gmail.com>
+Date:   Mon Nov 5 14:27:53 2018 -0700
+
+    Fixed bug
+
+commit e2c86e39da981eee0f0885c73a64d9b91fdd1931
+Author: Jared Gorthy <jago2136@colorado.edu>
+Date:   Thu Nov 1 10:08:49 2018 -0600
+
+    initial style edit
+
+commit 07b73e6a4e651e337f116e3c43ec9ecbb8444515
+Author: Jared Gorthy <jago2136@colorado.edu>
+Date:   Thu Nov 1 09:57:51 2018 -0600
+
+    initial style edit
+
+commit ecc97cbdbad53aa17e68b9a74864a056a8544ca7
+Author: DNiquette16 <Dniquette16@gmail.com>
+Date:   Wed Oct 31 01:35:15 2018 -0600
+
+    Able to pull from database to screen now
+
+commit 590a4482767cf69f853895e22f25740f169b2407
+Author: DNiquette16 <Dniquette16@gmail.com>
+Date:   Wed Oct 31 00:36:08 2018 -0600
+
+    Testing html stuff
+
+commit 1fe6a2f8e7a352e9a92c06157e45ffbf0c129bc9
+Author: DNiquette16 <Dniquette16@gmail.com>
+Date:   Tue Oct 30 20:38:41 2018 -0600
+
+    Fully fixed link bug
+
+commit 0eeb14c569848f55f2fbc069d8c601e738b89aad
+Merge: afa7c49 96adf01
+Author: DNiquette16 <Dniquette16@gmail.com>
+Date:   Tue Oct 30 20:26:46 2018 -0600
+
+    Partially fixed bug
+
+commit afa7c498db33768e9d48149ff86c0f4436e42f32
+Author: DNiquette16 <Dniquette16@gmail.com>
+Date:   Tue Oct 30 20:24:37 2018 -0600
+
+    Partially fixed button bug
+
+commit 96adf016db3fdad7874dc333f6db6cc7b68e2762
+Author: Jared Gorthy <jago2136@colorado.edu>
+Date:   Tue Oct 30 17:49:06 2018 -0600
+
+    make it beterrrr
+
+commit 049be39221dc1a22b8a85e934a05aa4c0b450277
+Author: Adam Rosa <adam.rosa@colorado.edu>
+Date:   Tue Oct 30 17:08:55 2018 -0600
+
+    html test2
+
+commit 21c31b6ad1c921d17e70589b89b8c271461afe6f
+Author: Adam Rosa <adam.rosa@colorado.edu>
+Date:   Tue Oct 30 17:05:05 2018 -0600
+
+    html test
+
+commit dc82f28d4dc6218a831cea0e74711def1293f5c8
+Author: DNiquette16 <Dniquette16@gmail.com>
+Date:   Sun Oct 28 22:39:48 2018 -0600
+
+    Testing html
+
+commit a13700b553efd2a6d5b33f6ee4dc1ed9b1e8ed05
+Author: DNiquette16 <Dniquette16@gmail.com>
+Date:   Sun Oct 28 16:09:46 2018 -0600
+
+    Settings.py change
+
+commit 9bc25acf6fcd0afe059c519cf45d09feeedeb2b7
+Author: DNiquette16 <Dniquette16@gmail.com>
+Date:   Sun Oct 28 16:06:48 2018 -0600
+
+    Settings.py change
+
+commit c785ab6fa0d60cee853675b082c747e8837b4e31
+Author: DNiquette16 <Dniquette16@gmail.com>
+Date:   Sun Oct 28 16:04:02 2018 -0600
+
+    Settings.py change
+
+commit 7cb3257f78ad22d34957ba8d0968713033ceb48c
+Author: DNiquette16 <Dniquette16@gmail.com>
+Date:   Sun Oct 28 15:58:59 2018 -0600
+
+    Settings.py change
+
+commit 193f40f60cf3fbc82e36c17149a9c1e6dfca559f
+Author: DNiquette16 <Dniquette16@gmail.com>
+Date:   Sun Oct 28 14:49:12 2018 -0600
+
+    Settings.py change
+
+commit 4c02c0bce6b8c810c825a25c288467ae01738698
+Author: DNiquette16 <Dniquette16@gmail.com>
+Date:   Sun Oct 28 14:46:22 2018 -0600
+
+    Settings.py change
+
+commit 0c3e1a7bddf344e8edaf0fca1d7264e6cca8797d
+Author: DNiquette16 <Dniquette16@gmail.com>
+Date:   Sun Oct 28 14:42:40 2018 -0600
+
+    Settings.py change
+
+commit c99976010f1dc9d648c96250e1c422382d1cffc2
+Author: DNiquette16 <Dniquette16@gmail.com>
+Date:   Sun Oct 28 14:41:21 2018 -0600
+
+    Settings.py change
+
+commit 03397d81b36fc3376bb09fdaddb42dd46d2bef4b
+Author: DNiquette16 <Dniquette16@gmail.com>
+Date:   Sun Oct 28 14:34:53 2018 -0600
+
+    Settings.py change
+
+commit d9edd6cd846e23a48ee039d8952daec98825ab81
+Author: DNiquette16 <Dniquette16@gmail.com>
+Date:   Sun Oct 28 14:32:46 2018 -0600
+
+    Settings.py change
+
+commit fc14a4063cb2acbee5396f01cd9500265631610f
+Author: DNiquette16 <Dniquette16@gmail.com>
+Date:   Sun Oct 28 14:22:17 2018 -0600
+
+    make it better

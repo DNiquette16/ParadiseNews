@@ -17,7 +17,7 @@ def is_logged_in(request):
         return False
 
 def home(request):
-    context = Posts.objects.order_by('-likes')[:10]
+    context = Posts.objects.order_by('-datetime')[:10]
     return render(request, 'home.html', {'articles': context, 'logged_in': is_logged_in(request)})
 
 def sports(request):
